@@ -53,6 +53,9 @@ Daca ai jucat Among Us, ai vazut ca dupa fiecare kill in locul astronautului apa
 
 Am incercat sa implementez un client pt multiplayer. Ma gandeam la photon. M am uitat putin cum functioneaza, dar inca nu mi-a iesit. Poate pana la prezentare iese, dar slabe sanse.
 
+Ce e in cerinta da practic nu e cam chiar full?
+Multiplayer. In teorie fiecare instanta de personaj are capabilitatea de a se misca si a se misca in acelasi timp cu alta, diferenta se face doar prin sistemul de comenzi. Prin 2 clicluri pot face ca doua persoane sa se miste simultan, dar deocamdata e ideea ca se misca la fel intrucat comenzile tot WASD sunt, nu exista alt raport de miscare, cum ar fi keybindings pe sageti.
+
 
 De ce ai scris acest roman?
 
