@@ -39,7 +39,7 @@ In plus, pentru a face lucrul asta am fost placut surprins sa gasesc ceva ce m-a
 
 Cum a mers dezvoltarea?
 
-Interesant. Desi nu stiu sa folosesc Github sa fac versare si practic maxim 2-3 commituri o sa am aici am inregistrat video sa am si eu o dovada despre procesul de munca, nu ca gata l am pus si aia e. Am urcat sa zicem compilatia aici:
+Interesant. Desi nu stiu sa folosesc Github sa fac versare si practic maxim 2-3 commituri o sa am aici am inregistrat video sa am si eu o dovada despre procesul de munca, nu ca gata l am pus si aia e. Am urcat sa zicem compilatia aici: https://youtu.be/jyejas29YEI
 
 
 Ce mergea si acum a crapat?
